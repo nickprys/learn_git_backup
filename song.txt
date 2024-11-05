@@ -3,19 +3,6 @@
 3 third
 4 fourth
 5 fifth
-6 sixth
 
-
-12
-13
-
-7 seventh
-8 eighth
-
-
-git revert
-
-
-added new feature_branch
 
 
