@@ -13,7 +13,7 @@
 8 eighth
 
 
-git revert 3
+git revert
 
 
 
