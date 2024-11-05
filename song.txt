@@ -6,6 +6,12 @@
 
 
 
+<<<<<<< HEAD
 10
 11
 Conflict resolving
+=======
+
+
+feature branch changes
+>>>>>>> feature_branch
