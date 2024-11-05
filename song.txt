@@ -6,3 +6,6 @@
 
 
 
+10
+11
+Conflict resolving
