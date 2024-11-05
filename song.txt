@@ -6,12 +6,6 @@
 
 
 
-<<<<<<< HEAD
-10
-11
-Conflict resolving
-=======
+10 11
 
-
-feature branch changes
->>>>>>> feature_branch
+tags
